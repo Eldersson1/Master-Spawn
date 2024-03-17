@@ -31,14 +31,17 @@ masterspawn.setspawn
 <details>
 <summary>config.yml</summary>
 
+´´´
 # Delay in seconds before teleporting to spawn
 delay: 3
+´´´
 
 </details>
 
 <details>
 <summary>messages.yml</summary>
 
+´´´
 messages:
   spawnSet: "&aSpawn location set!"
   noPermission: "&cYou don't have permission to use this command."
@@ -48,6 +51,7 @@ messages:
   teleported: "&aTeleported to spawn!"
   spawnNotSet: "&cSpawn location not set yet!"
   configReloaded: "&aConfiguration reloaded!"
+´´´
 
 </details>
 
