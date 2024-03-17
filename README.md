@@ -34,7 +34,7 @@ masterspawn.setspawn
 ```
 # Delay in seconds before teleporting to spawn
 delay: 3
-´´´
+```
 
 </details>
 
@@ -51,7 +51,7 @@ messages:
   teleported: "&aTeleported to spawn!"
   spawnNotSet: "&cSpawn location not set yet!"
   configReloaded: "&aConfiguration reloaded!"
-´´´
+```
 
 </details>
 
